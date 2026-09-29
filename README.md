@@ -83,3 +83,4 @@ npm start
 
 ---
 **Bổ sung tính năng đăng nhập quản trị bằng mật khẩu dành cho chủ và nhân viên, Khách hàng chỉ có thể xem trang Chọn món và thanh toán**
+Sửa mật khẩu mặc định trong file server.js (**adminPassword**)
