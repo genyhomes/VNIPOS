@@ -80,3 +80,6 @@ npm start
 | **Quản lý thực đơn** | `http://localhost:3000/menu-manage` | - |
 
 *(Địa chỉ IP cụ thể của máy chủ trong mạng Wi-Fi quán sẽ được hệ thống tự động hiển thị trong màn hình console và trang In mã QR).*
+
+---
+**Bổ sung tính năng đăng nhập quản trị bằng mật khẩu dành cho chủ và nhân viên, Khách hàng chỉ có thể xem trang Chọn món và thanh toán**
