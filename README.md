@@ -2,6 +2,10 @@
 
 Hệ thống chuyên nghiệp dành cho quán cà phê / trà sữa: Khách quét mã QR tại bàn để xem menu và gọi món trực tiếp, đơn hàng đổ ngay về máy tính tại quầy pha chế kèm **chuông báo âm thanh + giọng nói tiếng Việt**, nhân viên xác nhận và ấn thanh toán để **tự động cộng dồn doanh số thời gian thực**.
 
+Tích hợp tính năng thông báo số dư bằng âm thanh cho nhân viên. Hoàn toàn miễn phí
+
+Cài đặt Store Noti là ứng dụng di động của Techcombank dành riêng cho người bán hàng, giúp gửi thông báo giao dịch tiền về tức thì cho chủ cửa hàng và nhân viên. Có thể kết hợp dùng thêm loa thông báo
+
 Tải full code: https://forumviet.com/threads/he-thong-goi-mon-bang-ma-qr-quan-ly-doanh-thu-cho-nha-hang-quan-cafe-mien-phi.6187/
 ---
 
